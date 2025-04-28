@@ -45,11 +45,11 @@ Daniel Muir – [LinkedIn](https://www.linkedin.com/in/daniel-muir31415/) – da
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[Github page](https://github.com/dan17229/V-Dyno)
+[Github page](https://github.com/dan17229/VDyno)
 
 ## Contributing
 
-1. Fork it (<https://github.com/dan17229/Vdynio/fork>)
+1. Fork it (<https://github.com/dan17229/Vdyno/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
