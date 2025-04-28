@@ -1,6 +1,6 @@
 # <img src="VDyno/images/main_logo.png" alt="logo" width="200"/>
 
-V-Dyno was created as part of a masters group project in 2024/25 at the University of Bristol. It contains all neccessary files to recreate our setup, including the design files and UI (User Interface) that allows users to easily run dynamic tests: VDyno.py.
+VDyno was created as part of a masters group project in 2024/25 at the University of Bristol. It contains all neccessary files to recreate our setup, including the design files and UI (User Interface) that allows users to easily run dynamic tests: VDyno.py.
 
 ## Acknowledgements
 
